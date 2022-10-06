@@ -1,0 +1,2 @@
+Installer Platform-tools dans ce dossier
+https://developer.android.com/studio/releases/platform-tools
